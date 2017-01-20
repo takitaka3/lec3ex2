@@ -1,3 +1,10 @@
 Takashi Takizawa
+<<<<<<< HEAD
 Licheng Zhu
 Takashi Takizawa2
+=======
+
+Yuqing Xia
+
+Licheng Zhu
+>>>>>>> refs/remotes/origin/master
